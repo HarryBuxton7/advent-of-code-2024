@@ -1,8 +1,8 @@
-# Advent-of-code-2023
+# Advent-of-code-2024
 
 Advent of code is a daily coding challenge throughout december. 
 
-https://adventofcode.com/2023
+https://adventofcode.com/2024
 
 Solving problems with Typescript.
 
